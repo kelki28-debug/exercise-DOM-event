@@ -9,7 +9,7 @@ button.addEventListener('click', function(){
         phone:document.querySelector('.phone').value
     }
     
-    alert(`Nama: ${user.fullName}
+    alert(`    Nama: ${user.fullName}
     Email: ${user.email}
     Password: ${user.password}
     Phone: ${user.phone}`)
